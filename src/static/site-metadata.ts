@@ -12,17 +12,18 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://app.follow.is/share/lists/71885160939929600',
-  logo:  'https://i.ibb.co/fxcj8V7/Big-Meow-cats-catsofinstagram-cat-catstagram-instagram-catlover-catlife-catlovers-instacat-kitten-pe.jpg',
+  siteUrl: 'https://ben29.xyz',
+  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
   description: 'Personal site and blog',
+  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Strava',
-      url: 'https://www.strava.com/athletes/135469581',
+      name: 'Blog',
+      url: 'https://ben29.xyz',
     },
     {
-      name: 'Follow',
-      url: 'https://app.follow.is/share/lists/71885160939929600',
+      name: 'About',
+      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
     },
   ],
 };
