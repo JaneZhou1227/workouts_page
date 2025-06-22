@@ -142,5 +142,21 @@
 "elevation_gain": 4.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14870561362,
+"name": "\u665a\u95f4\u884c\u8d70",
+"distance": 2840.2,
+"moving_time": "0:32:27",
+"type": "Hike",
+"start_date": "2025-06-21 13:19:28+00:00",
+"start_date_local": "2025-06-21 21:19:28",
+"location_country": "\u5174\u9686\u8857\u9053, \u6387\u5200\u533a, \u8346\u95e8\u5e02, \u6e56\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "czy{DcwwkTCXBf@AnAEn@ENIHI@WAy@Di@?IDMLG`@?VBJNPPHxABXELMHS@_@EOMSSKo@Ay@@KFMPIf@BPDJLJXJTATB\\CL?RGRUDSAMGWGMQMOCsA?QDSVEXANL^PJ~@Dr@CLGFKHW?KMk@GIMEOAgA@]BIHIREXBRDNRLLFzABRGPWDWAQCSGKOMMCkA?WBMDOTET?JH`@DFZLzA?PEV[BUE_@UYWEsA?YJKLERAXFTNNZHvA?LEFGLSBKEe@IQKMWEuA@KBMLOZ?JFb@LNXJxAA\\SDKD]CSKQMMKEIAq@B[AQDMHOV?^DPTRRFP?d@Db@CVOLY?SC]KQKGYE]Du@AMDIFMPEN?\\P\\VLJ@`ACPBZMHMDOAm@QYQIMAQBcA?ODKFKTCZBRFJTTTFvA?ZSHOB[CQIYQMKE^GH[EO",
+"average_heartrate": null,
+"average_speed": 1.459,
+"elevation_gain": 10.4,
+"source": "strava",
+"streak": 1
 }
 ]
