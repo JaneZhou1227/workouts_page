@@ -350,5 +350,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16413651396,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2811.3,
+"moving_time": "0:52:51",
+"type": "Hike",
+"start_date": "2025-11-10 11:59:04+00:00",
+"start_date_local": "2025-11-10 19:59:04",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 0.887,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
